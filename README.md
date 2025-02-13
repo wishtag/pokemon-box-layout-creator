@@ -37,11 +37,11 @@ Charmeleon
 ### `mons.txt`
 This is where you put the Pokémon names in the order you want them to be when formatted. My `mons.txt` should be included in the download, but if you don't like my layout you can empty the file and make your own. I used this [website](https://pokemondb.net/tools/text-list) as the base for mine.  
 ### `caught.txt`
-This is where you put the names of the Pokémon you have caught.  
+This is where you put the names of the Pokémon you have caught. After downloading, if your `caught.txt` file already has Pokémon in it, just empty it. That's my personal list and I probably accidently published it to the repository.  
 
 When adding a Pokémon to `caught.txt`, make sure the name of the Pokémon matches the way the name is typed in `mons.txt`.  
 ### `caught_but_not_evolved.txt`
-This is where you put the names of the Pokémon you have caught but not evolved. For example, I have caught a Duraludon to evolve into an Archaludon. I want to note that I have the Pokémon but just need to evolve it, so I would put Archaludon in my `caught_but_not_evolved.txt`.  
+This is where you put the names of the Pokémon you have caught but not evolved. For example, I have caught a Duraludon to evolve into an Archaludon. I want to note that I have the Pokémon but just need to evolve it, so I would put Archaludon in my `caught_but_not_evolved.txt`. After downloading, if your `caught_but_not_evolved.txt` file already has Pokémon in it, just empty it. That's my personal list and I probably accidently published it to the repository.  
 
 When adding a Pokémon to `caught_but_not_evolved.txt`, make sure the name of the Pokémon matches the way the name is typed in `mons.txt`.  
 ### `shiny_locked.txt`
