@@ -1,5 +1,5 @@
 {
     "shiny_dex": true,
     "open_when_done": true,
-    "invert_caught": true
+    "invert_caught": false
 }
