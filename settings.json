@@ -1,0 +1,9 @@
+{
+    // If set to true, then pokemon in the shiny_locked.txt file will be marked out
+    // If set to false, shiny_locked.txt is ignored
+    "shiny_dex": false,
+
+    // If set to true, box.py and box_caught.py will open the text file after saving to it
+    // If set to false, box.py and box_caught.py will not open the text file after saving to it
+    "open_when_done": true
+}

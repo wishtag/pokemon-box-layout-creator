@@ -1,0 +1,1 @@
+python ..\python\print_to_file_caught.py
