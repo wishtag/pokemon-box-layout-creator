@@ -1,0 +1,1 @@
+python ..\python\remove_spaces.py
