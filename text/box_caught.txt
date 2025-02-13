@@ -21,8 +21,8 @@
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ [      Venomoth     ] [      Diglett      ] [      Dugtrio      ] [   Alolan Diglett  ] [   Alolan Dugtrio  ] [       Meowth      ] │
 │ [      Persian      ] [   Alolan Meowth   ] [   Alolan Persian  ] [  Galarian Meowth  ] [     Perrserker    ] [      Psyduck      ] │
-│ [      Golduck      ] [       Mankey      ] [      Primeape     ] [     Annihilape    ] [     Growlithe     ] [      Arcanine     ] │
-│ [ Hisuian Growlithe ] [  Hisuian Arcanine ] [      Poliwag      ] [     Poliwhirl     ] [     Poliwrath     ] [      Politoed     ] │
+│ [      Golduck      ] [       Mankey      ] [      Primeape     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [     Growlithe     ] [      Arcanine     ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Poliwag      ] [     Poliwhirl     ] [     Poliwrath     ] [      Politoed     ] │
 │ [        Abra       ] [      Kadabra      ] [      Alakazam     ] [       Machop      ] [      Machoke      ] [      Machamp      ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -40,7 +40,7 @@
 │ [      Dewgong      ] [       Grimer      ] [        Muk        ] [   Alolan Grimer   ] [     Alolan Muk    ] [      Shellder     ] │
 │ [      Cloyster     ] [       Gastly      ] [      Haunter      ] [       Gengar      ] [        Onix       ] [      Steelix      ] │
 │ [      Drowzee      ] [       Hypno       ] [       Krabby      ] [      Kingler      ] [      Voltorb      ] [     Electrode     ] │
-│ [  Hisuian Voltorb  ] [ Hisuian Electrode ] [     Exeggcute     ] [     Exeggutor     ] [  Alolan Exeggutor ] [       Cubone      ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [     Exeggcute     ] [     Exeggutor     ] [  Alolan Exeggutor ] [       Cubone      ] │
 │ [      Marowak      ] [   Alolan Marowak  ] [      Tyrogue      ] [     Hitmonlee     ] [     Hitmonchan    ] [     Hitmontop     ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -50,13 +50,13 @@
 │ [       Rhydon      ] [     Rhyperior     ] [      Happiny      ] [      Chansey      ] [      Blissey      ] [      Tangela      ] │
 │ [     Tangrowth     ] [     Kangaskhan    ] [       Horsea      ] [       Seadra      ] [      Kingdra      ] [      Goldeen      ] │
 │ [      Seaking      ] [       Staryu      ] [      Starmie      ] [      Mime Jr.     ] [      Mr. Mime     ] [ Galarian Mr. Mime ] │
-│ [      Mr. Rime     ] [      Scyther      ] [       Scizor      ] [      Kleavor      ] [      Smoochum     ] [        Jynx       ] │
+│ [      Mr. Rime     ] [      Scyther      ] [       Scizor      ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Smoochum     ] [        Jynx       ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 7                                                                │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ [       Elekid      ] [     Electabuzz    ] [     Electivire    ] [       Magby       ] [       Magmar      ] [     Magmortar     ] │
-│ [       Pinsir      ] [       Tauros      ] [   Paldean Tauros  ] [      Magikarp     ] [      Gyarados     ] [       Lapras      ] │
+│ [       Pinsir      ] [       Tauros      ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Magikarp     ] [      Gyarados     ] [       Lapras      ] │
 │ [       Ditto       ] [       Eevee       ] [      Vaporeon     ] [      Jolteon      ] [      Flareon      ] [       Espeon      ] │
 │ [      Umbreon      ] [      Leafeon      ] [      Glaceon      ] [      Sylveon      ] [      Porygon      ] [      Porygon2     ] │
 │ [     Porygon-Z     ] [      Omanyte      ] [      Omastar      ] [       Kabuto      ] [      Kabutops     ] [     Aerodactyl    ] │
@@ -67,7 +67,7 @@
 │ [      Munchlax     ] [      Snorlax      ] [      Dratini      ] [     Dragonair     ] [     Dragonite     ] [      Articuno     ] │
 │ [       Zapdos      ] [      Moltres      ] [ Galarian Articuno ] [  Galarian Zapdos  ] [  Galarian Moltres ] [       Mewtwo      ] │
 │ [        Mew        ] [     Chikorita     ] [      Bayleef      ] [      Meganium     ] [     Cyndaquil     ] [      Quilava      ] │
-│ [     Typhlosion    ] [ Hisuian Typhlosion] [      Totodile     ] [      Croconaw     ] [     Feraligatr    ] [      Sentret      ] │
+│ [     Typhlosion    ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Totodile     ] [      Croconaw     ] [     Feraligatr    ] [      Sentret      ] │
 │ [       Furret      ] [      Hoothoot     ] [      Noctowl      ] [       Ledyba      ] [       Ledian      ] [      Spinarak     ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -77,7 +77,7 @@
 │ [        Natu       ] [        Xatu       ] [       Mareep      ] [      Flaaffy      ] [      Ampharos     ] [      Azurill      ] │
 │ [       Marill      ] [     Azumarill     ] [       Bonsly      ] [     Sudowoodo     ] [       Hoppip      ] [      Skiploom     ] │
 │ [      Jumpluff     ] [       Aipom       ] [      Ambipom      ] [      Sunkern      ] [      Sunflora     ] [       Yanma       ] │
-│ [      Yanmega      ] [       Wooper      ] [      Quagsire     ] [   Paldean Wooper  ] [      Clodsire     ] [      Murkrow      ] │
+│ [      Yanmega      ] [       Wooper      ] [      Quagsire     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Murkrow      ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 10                                                               │
@@ -91,20 +91,20 @@
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 11                                                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ [      Unown ?      ] [       Wynaut      ] [     Wobbuffet     ] [     Girafarig     ] [     Farigiraf     ] [       Pineco      ] │
-│ [     Forretress    ] [     Dunsparce     ] [    Dudunsparce    ] [       Gligar      ] [      Gliscor      ] [      Snubbull     ] │
-│ [      Granbull     ] [      Qwilfish     ] [  Hisuian Qwilfish ] [      Overqwil     ] [      Shuckle      ] [     Heracross     ] │
-│ [      Sneasel      ] [      Weavile      ] [  Hisuian Sneasel  ] [      Sneasler     ] [     Teddiursa     ] [      Ursaring     ] │
-│ [      Ursaluna     ] [       Slugma      ] [      Magcargo     ] [       Swinub      ] [     Piloswine     ] [     Mamoswine     ] │
+│ [      Unown ?      ] [       Wynaut      ] [     Wobbuffet     ] [     Girafarig     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [       Pineco      ] │
+│ [     Forretress    ] [     Dunsparce     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [       Gligar      ] [      Gliscor      ] [      Snubbull     ] │
+│ [      Granbull     ] [      Qwilfish     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Shuckle      ] [     Heracross     ] │
+│ [      Sneasel      ] [      Weavile      ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [     Teddiursa     ] [      Ursaring     ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [       Slugma      ] [      Magcargo     ] [       Swinub      ] [     Piloswine     ] [     Mamoswine     ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 12                                                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ [      Corsola      ] [  Galarian Corsola ] [      Cursola      ] [      Remoraid     ] [     Octillery     ] [      Delibird     ] │
 │ [      Mantyke      ] [      Mantine      ] [      Skarmory     ] [      Houndour     ] [      Houndoom     ] [       Phanpy      ] │
-│ [      Donphan      ] [      Stantler     ] [      Wyrdeer      ] [      Smeargle     ] [      Miltank      ] [      Larvitar     ] │
+│ [      Donphan      ] [      Stantler     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Smeargle     ] [      Miltank      ] [      Larvitar     ] │
 │ [      Pupitar      ] [     Tyranitar     ] [       Raikou      ] [       Entei       ] [      Suicune      ] [       Lugia       ] │
-│ [       Ho-oh       ] [       Celebi      ] [      Treecko      ] [      Grovyle      ] [      Sceptile     ] [      Torchic      ] │
+│ [       Ho-oh       ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Treecko      ] [      Grovyle      ] [      Sceptile     ] [      Torchic      ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 13                                                               │
@@ -176,12 +176,12 @@
 │ [       Rotom       ] [     Heat Rotom    ] [     Wash Rotom    ] [    Frost Rotom    ] [     Fan Rotom     ] [     Mow Rotom     ] │
 │ [        Uxie       ] [      Mesprit      ] [       Azelf       ] [      Heatran      ] [       Phione      ] [      Manaphy      ] │
 │ [     Cresselia     ] [      Darkrai      ] [      Shaymin      ] [       Dialga      ] [       Palkia      ] [      Giratina     ] │
-│ [       Arceus      ] [       Snivy       ] [      Servine      ] [     Serperior     ] [       Tepig       ] [      Pignite      ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [       Snivy       ] [      Servine      ] [     Serperior     ] [       Tepig       ] [      Pignite      ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 21                                                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ [       Emboar      ] [      Oshawott     ] [       Dewott      ] [      Samurott     ] [  Hisuian Samurott ] [       Patrat      ] │
+│ [       Emboar      ] [      Oshawott     ] [       Dewott      ] [      Samurott     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [       Patrat      ] │
 │ [      Watchog      ] [      Lillipup     ] [      Herdier      ] [     Stoutland     ] [      Purrloin     ] [      Liepard      ] │
 │ [      Pansage      ] [      Simisage     ] [      Pansear      ] [      Simisear     ] [      Panpour      ] [      Simipour     ] │
 │ [       Munna       ] [      Musharna     ] [       Pidove      ] [     Tranquill     ] [     Unfezant M    ] [     Unfezant F    ] │
@@ -193,8 +193,8 @@
 │ [      Swoobat      ] [      Drilbur      ] [     Excadrill     ] [       Audino      ] [      Timburr      ] [      Gurdurr      ] │
 │ [     Conkeldurr    ] [      Tympole      ] [     Palpitoad     ] [     Seismitoad    ] [       Throh       ] [        Sawk       ] │
 │ [      Sewaddle     ] [      Swadloon     ] [      Leavanny     ] [      Venipede     ] [     Whirlipede    ] [     Scolipede     ] │
-│ [      Cottonee     ] [     Whimsicott    ] [      Petilil      ] [     Lilligant     ] [ Hisuian Lilligant ] [      Basculin     ] │
-│ [   Basculegion M   ] [   Basculegion F   ] [      Sandile      ] [      Krokorok     ] [     Krookodile    ] [      Darumaka     ] │
+│ [      Cottonee     ] [     Whimsicott    ] [      Petilil      ] [     Lilligant     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Basculin     ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Sandile      ] [      Krokorok     ] [     Krookodile    ] [      Darumaka     ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 23                                                               │
@@ -202,7 +202,7 @@
 │ [     Darmanitan    ] [ Galarian Darumaka ] [Galarian Darmanitan] [      Maractus     ] [      Dwebble      ] [      Crustle      ] │
 │ [      Scraggy      ] [      Scrafty      ] [      Sigilyph     ] [       Yamask      ] [     Cofagrigus    ] [  Galarian Yamask  ] │
 │ [     Runerigus     ] [      Tirtouga     ] [     Carracosta    ] [       Archen      ] [      Archeops     ] [      Trubbish     ] │
-│ [      Garbodor     ] [       Zorua       ] [      Zoroark      ] [   Hisuian Zorua   ] [  Hisuian Zoroark  ] [      Minccino     ] │
+│ [      Garbodor     ] [       Zorua       ] [      Zoroark      ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Minccino     ] │
 │ [      Cinccino     ] [      Gothita      ] [     Gothorita     ] [     Gothitelle    ] [      Solosis      ] [      Duosion      ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -221,15 +221,15 @@
 │ [      Litwick      ] [      Lampent      ] [     Chandelure    ] [        Axew       ] [      Fraxure      ] [      Haxorus      ] │
 │ [      Cubchoo      ] [      Beartic      ] [     Cryogonal     ] [      Shelmet      ] [      Accelgor     ] [      Stunfisk     ] │
 │ [ Galarian Stunfisk ] [      Mienfoo      ] [      Mienshao     ] [     Druddigon     ] [       Golett      ] [       Golurk      ] │
-│ [      Pawniard     ] [      Bisharp      ] [     Kingambit     ] [     Bouffalant    ] [      Rufflet      ] [      Braviary     ] │
+│ [      Pawniard     ] [      Bisharp      ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [     Bouffalant    ] [      Rufflet      ] [      Braviary     ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 26                                                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ [  Hisuian Braviary ] [      Vullaby      ] [     Mandibuzz     ] [      Heatmor      ] [       Durant      ] [       Deino       ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Vullaby      ] [     Mandibuzz     ] [      Heatmor      ] [       Durant      ] [       Deino       ] │
 │ [      Zweilous     ] [     Hydreigon     ] [      Larvesta     ] [     Volcarona     ] [      Cobalion     ] [     Terrakion     ] │
-│ [      Virizion     ] [       Keldeo      ] [      Tornadus     ] [     Thundurus     ] [      Landorus     ] [      Enamorus     ] │
-│ [      Reshiram     ] [       Zekrom      ] [       Kyurem      ] [      Victini      ] [      Meloetta     ] [      Genesect     ] │
+│ [      Virizion     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Tornadus     ] [     Thundurus     ] [      Landorus     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [      Reshiram     ] [       Zekrom      ] [       Kyurem      ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Meloetta     ] [      Genesect     ] │
 │ [      Chespin      ] [     Quilladin     ] [     Chesnaught    ] [      Fennekin     ] [      Braixen      ] [      Delphox      ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -253,11 +253,11 @@
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 29                                                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ [      Carbink      ] [       Goomy       ] [      Sliggoo      ] [       Goodra      ] [  Hisuian Sliggoo  ] [   Hisuian Goodra  ] │
+│ [      Carbink      ] [       Goomy       ] [      Sliggoo      ] [       Goodra      ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
 │ [       Klefki      ] [      Phantump     ] [     Trevenant     ] [     Pumpkaboo     ] [     Gourgeist     ] [      Bergmite     ] │
-│ [      Avalugg      ] [  Hisuian Avalugg  ] [       Noibat      ] [      Noivern      ] [      Xerneas      ] [      Yveltal      ] │
-│ [      Zygarde      ] [      Diancie      ] [       Hoopa       ] [     Volcanion     ] [       Rowlet      ] [      Dartrix      ] │
-│ [     Decidueye     ] [ Hisuian Decidueye ] [       Litten      ] [      Torracat     ] [     Incineroar    ] [      Popplio      ] │
+│ [      Avalugg      ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [       Noibat      ] [      Noivern      ] [      Xerneas      ] [      Yveltal      ] │
+│ [      Zygarde      ] [      Diancie      ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [       Rowlet      ] [      Dartrix      ] │
+│ [     Decidueye     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [       Litten      ] [      Torracat     ] [     Incineroar    ] [      Popplio      ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 30                                                               │
@@ -282,9 +282,9 @@
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ [      Kommo-o      ] [     Tapu Koko     ] [     Tapu Lele     ] [     Tapu Bulu     ] [     Tapu Fini     ] [      Poipole      ] │
 │ [     Naganadel     ] [      Nihilego     ] [      Buzzwole     ] [     Pheromosa     ] [     Xurkitree     ] [     Celesteela    ] │
-│ [      Kartana      ] [      Guzzlord     ] [     Stakataka     ] [    Blacephalon    ] [       Cosmog      ] [      Cosmoem      ] │
-│ [      Solgaleo     ] [       Lunala      ] [      Necrozma     ] [      Magearna     ] [     Marshadow     ] [      Zeraora      ] │
-│ [       Meltan      ] [      Melmetal     ] [      Grookey      ] [      Thwackey     ] [     Rillaboom     ] [     Scorbunny     ] │
+│ [      Kartana      ] [      Guzzlord     ] [     Stakataka     ] [    Blacephalon    ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [      Solgaleo     ] [       Lunala      ] [      Necrozma     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [      Grookey      ] [      Thwackey     ] [     Rillaboom     ] [     Scorbunny     ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 33                                                               │
@@ -293,12 +293,12 @@
 │ [      Greedent     ] [      Rookidee     ] [    Corvisquire    ] [    Corviknight    ] [      Blipbug      ] [      Dottler      ] │
 │ [      Orbeetle     ] [       Nickit      ] [      Thievul      ] [     Gossifleur    ] [      Eldegoss     ] [       Wooloo      ] │
 │ [      Dubwool      ] [      Chewtle      ] [      Drednaw      ] [       Yamper      ] [      Boltund      ] [      Rolycoly     ] │
-│ [       Carkol      ] [     Coalossal     ] [       Applin      ] [      Flapple      ] [      Appletun     ] [      Dipplin      ] │
+│ [       Carkol      ] [     Coalossal     ] [       Applin      ] [      Flapple      ] [      Appletun     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 34                                                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ [     Hydrapple     ] [     Silicobra     ] [     Sandaconda    ] [     Cramorant     ] [      Arrokuda     ] [    Barraskewda    ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [     Silicobra     ] [     Sandaconda    ] [     Cramorant     ] [      Arrokuda     ] [    Barraskewda    ] │
 │ [       Toxel       ] [  Toxtricity Amped ] [ Toxtricity Lowkey ] [     Sizzlipede    ] [    Centiskorch    ] [     Clobbopus     ] │
 │ [     Grapploct     ] [   Sinistea Fake   ] [  Polteageist Fake ] [   Sinistea Real   ] [  Polteageist Real ] [      Hatenna      ] │
 │ [      Hattrem      ] [     Hatterene     ] [      Impidimp     ] [      Morgrem      ] [     Grimmsnarl    ] [      Milcery      ] │
@@ -309,43 +309,43 @@
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
 │ [  Alcremie Purple  ] [      Falinks      ] [     Pincurchin    ] [        Snom       ] [      Frosmoth     ] [    Stonjourner    ] │
 │ [       Eiscue      ] [     Indeedee M    ] [     Indeedee F    ] [      Morpeko      ] [       Cufant      ] [     Copperajah    ] │
-│ [     Dracozolt     ] [     Arctozolt     ] [     Dracovish     ] [     Arctovish     ] [     Duraludon     ] [     Archaludon    ] │
+│ [     Dracozolt     ] [     Arctozolt     ] [     Dracovish     ] [     Arctovish     ] [     Duraludon     ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
 │ [       Dreepy      ] [      Drakloak     ] [     Dragapult     ] [       Zacian      ] [     Zamazenta     ] [     Eternatus     ] │
-│ [       Kubfu       ] [      Urshifu      ] [       Zarude      ] [     Glastrier     ] [     Spectrier     ] [      Calyrex      ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 36                                                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ [     Sprigatito    ] [     Floragato     ] [    Meowscarada    ] [      Fuecoco      ] [      Crocalor     ] [     Skeledirge    ] │
-│ [       Quaxly      ] [      Quaxwell     ] [     Quaquaval     ] [      Lechonk      ] [    Oinkologne M   ] [    Oinkologne F   ] │
-│ [     Tarountula    ] [      Spidops      ] [       Nymble      ] [       Lokix       ] [       Pawmi       ] [       Pawmo       ] │
-│ [       Pawmot      ] [     Tandemaus     ] [      Maushold     ] [      Fidough      ] [      Dachsbun     ] [       Smoliv      ] │
-│ [       Dolliv      ] [      Arboliva     ] [    Squawkabilly   ] [       Nacli       ] [     Naclstack     ] [     Garganacl     ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [     Sprigatito    ] [     Floragato     ] [    Meowscarada    ] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 37                                                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ [     Charcadet     ] [     Armarouge     ] [     Ceruledge     ] [      Tadbulb      ] [     Bellibolt     ] [      Wattrel      ] │
-│ [    Kilowattrel    ] [      Maschiff     ] [     Mabosstiff    ] [      Shroodle     ] [      Grafaiai     ] [      Bramblin     ] │
-│ [    Brambleghast   ] [     Toedscool     ] [     Toedscruel    ] [       Klawf       ] [      Capsakid     ] [     Scovillain    ] │
-│ [       Rellor      ] [       Rabsca      ] [      Flittle      ] [      Espathra     ] [     Tinkatink     ] [     Tinkatuff     ] │
-│ [      Tinkaton     ] [      Wiglett      ] [      Wugtrio      ] [     Bombirdier    ] [      Finizen      ] [      Palafin      ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 38                                                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ [       Varoom      ] [     Revavroom     ] [      Cyclizar     ] [      Orthworm     ] [      Glimmet      ] [      Glimmora     ] │
-│ [      Greavard     ] [     Houndstone    ] [      Flamigo      ] [      Cetoddle     ] [      Cetitan      ] [       Veluza      ] │
-│ [      Dondozo      ] [     Tatsugiri     ] [     Great Tusk    ] [    Scream Tail    ] [    Brute Bonnet   ] [    Flutter Mane   ] │
-│ [    Slither Wing   ] [    Sandy Shocks   ] [    Iron Treads    ] [    Iron Bundle    ] [     Iron Hands    ] [    Iron Jugulis   ] │
-│ [     Iron Moth     ] [    Iron Thorns    ] [      Frigibax     ] [      Arctibax     ] [     Baxcalibur    ] [     Gimmighoul    ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                Box 39                                                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ [     Gholdengo     ] [      Wo-Chien     ] [     Chien-Pao     ] [      Ting-Lu      ] [       Chi-Yu      ] [    Roaring Moon   ] │
-│ [    Iron Valiant   ] [      Koraidon     ] [      Miraidon     ] [    Walking Wake   ] [    Iron Leaves    ] [ Poltchageist Fake ] │
-│ [   Sinistcha Fake  ] [ Poltchageist Real ] [   Sinistcha Real  ] [      Okidogi      ] [     Munkidori     ] [    Fezandipiti    ] │
-│ [      Ogerpon      ] [    Gouging Fire   ] [    Raging Bolt    ] [    Iron Boulder   ] [     Iron Crown    ] [     Pecharunt     ] │
-│ [                   ] [                   ] [                   ] [                   ] [                   ] [                   ] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] │
+│ [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] [                   ] [                   ] │
 └─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
