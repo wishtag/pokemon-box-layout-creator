@@ -1125,18 +1125,30 @@ Dondozo
 Tatsugiri Curly
 Tatsugiri Droopy
 Tatsugiri Stretch
+Poltchageist Fake
+Sinistcha Fake
+Poltchageist Real
+Sinistcha Real
 Great Tusk
 Scream Tail
 Brute Bonnet
 Flutter Mane
 Slither Wing
 Sandy Shocks
+Roaring Moon
+Raging Bolt
+Gouging Fire
+Walking Wake
 Iron Treads
 Iron Bundle
 Iron Hands
 Iron Jugulis
 Iron Moth
 Iron Thorns
+Iron Valiant
+Iron Crown
+Iron Boulder
+Iron Leaves
 Frigibax
 Arctibax
 Baxcalibur
@@ -1146,23 +1158,11 @@ Wo-Chien
 Chien-Pao
 Ting-Lu
 Chi-Yu
-Roaring Moon
-Iron Valiant
 Koraidon
 Miraidon
-Walking Wake
-Iron Leaves
-Poltchageist Fake
-Sinistcha Fake
-Poltchageist Real
-Sinistcha Real
 Okidogi
 Munkidori
 Fezandipiti
-Ogerpon
-Gouging Fire
-Raging Bolt
-Iron Boulder
-Iron Crown
-Terapagos
 Pecharunt
+Ogerpon
+Terapagos
