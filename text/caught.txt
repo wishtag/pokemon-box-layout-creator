@@ -1008,3 +1008,8 @@ Zygarde
 Solgaleo
 Tapu Koko
 Necrozma
+Keldeo
+Celebi
+Fuecoco
+Crocalor
+Skeledirge
